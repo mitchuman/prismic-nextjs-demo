@@ -3,13 +3,7 @@ import { components } from '../slices'
 import { createClient } from '../prismicio'
 
 const HomePg = ({ page }) => (
-  <main>
-    <h1>Home</h1>
-
-    {console.log(page)}
-
-    <SliceZone slices={page.data.slices} components={components} />
-  </main>
+  <SliceZone slices={page.data.body} components={components} />
 )
 
 export default HomePg
