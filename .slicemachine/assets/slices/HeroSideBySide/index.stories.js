@@ -5,5 +5,5 @@ export default {
 }
 
 
-export const _Default = () => <MyComponent slice={{"variation":"default","name":"Default","slice_type":"hero_side_by_side","items":[],"primary":{"title":[{"type":"heading1","text":"Reintermediate cross-media applications","spans":[]}],"description":[{"type":"paragraph","text":"Tempor dolor laborum eiusmod nisi culpa dolore dolore. Officia incididunt enim ex velit tempor Lorem et duis qui consequat. Sint qui voluptate deserunt consectetur irure laborum adipisicing.","spans":[]}]},"id":"_Default"}} />
+export const _Default = () => <MyComponent slice={{"variation":"default","name":"Default","slice_type":"hero_side_by_side","items":[],"primary":{"title":[{"type":"heading1","text":"Enable seamless infomediaries","spans":[]}],"description":[{"type":"paragraph","text":"Mollit id cupidatat sunt officia ea.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1589321599763-d66926c29613?w=900&h=500&fit=crop"}},"id":"_Default"}} />
 _Default.storyName = 'Default'
